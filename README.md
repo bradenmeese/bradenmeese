@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub Portfolio!
+
+└── (repository root)
+    ├── index.html           <- Main/Home page
+    ├── skills.html          <- Skills page
+    ├── projects.html        <- Projects page
+    ├── experience.html      <- Work experience page
+    ├── education.html       <- Education page
+    └── contact.html         <- Contact page
 
 <!--
 **bradenmeese/bradenmeese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
