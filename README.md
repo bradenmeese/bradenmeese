@@ -15,18 +15,7 @@
      <main>
     <section id="about">
       <p>My name is Braden Meese, I was born and raised in Norwalk, Connecticut and moved to Denver to study Marketing and Business Information Analytics at the University of Denver. I have a passion for financial services after working with a boutiqe Wealth Management and Financial Advisory Firm in Darien, Connecticut. I am looking for opportunities in the realm or related.</p>
-    </section>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="skills.html">Skills</a></li>
-
-        <li><a href="projects.html">Projects</a></li>
-        <li><a href="work_experience.html">Work Experience</a></li>
-        <li><a href="education.html">Education</a></li>
-        <li><a href="extra.html">Additional Info</a></li>
-      </ul>
-    </nav>
+ 
   </header>
   
 
@@ -44,11 +33,44 @@
 </html>
   </main>
   
+ <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Skills</h1>
+   
+  </header>
+  
+  <main>
+    <section id="technical-skills">
+      <h2>Technical Skills</h2>
+      <p>Leadership & Problem Solving:
+I have demonstrated leadership through team management and project execution, leveraging strong analytical and problem-solving skills to overcome challenges and drive results. For example, delegating fraternity brothers in order to properly manage a charity concert with over 500 attendees. 
+
+Technical & Information Systems:
+I am proficient in computer information systems with a keen ability to organize and manage data as well as being skilled at structuring complex information to support efficient decision-making.
+
+Software & Data Analytics:
+I am experienced in basic Python and SQL for data manipulation and automation. I am also competent in using Google Analytics to extract actionable insights and improve digital strategies. Additionally, I am highly proficient in the Microsoft Office Suite (Word, PowerPoint, and Excel), which supports the creation of detailed reports, presentations, and data analysis.
+
+Language Proficiency:
+I am semi-proficient in the French language and French culture, enabling effective communication in multicultural and international environments.</p>
+    </section>
+    
+ 
+  </main>
+  
   <footer>
-    <p>&copy; 2025 Braden Meese. All rights reserved.</p>
+    <p>&copy; 2025 Your Name. All rights reserved.</p>
   </footer>
 </body>
 </html>
+
 
 
 <!--
