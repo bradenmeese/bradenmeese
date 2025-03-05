@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Portfolio!
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -11,7 +11,12 @@
 <body>
   <header>
     <h1>Braden Meese</h1>
+    <h2>About Me</h2>
     <p class="brand-statement">I am a data-driven marketing professional with experience in analytics, database management, strategic leadership, and client satisfaction with a background in designing client-centered databases and leading risk-prevention programs, I bring a unique blend of technical and interpersonal skills. I am looking to help organizations optimize their marketing strategies and enhance data-driven decision-making for measurable growth and impact.</p>
+     <main>
+    <section id="about">
+      <p>My name is Braden Meese, I was born and raised in Norwalk, Connecticut and moved to Denver to study Marketing and Business Information Analytics at the University of Denver. I have a passion for financial services after working with a boutiqe Wealth Management and Financial Advisory Firm in Darien, Connecticut. I am looking for opportunities in the realm or related.</p>
+    </section>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>
@@ -24,11 +29,7 @@
     </nav>
   </header>
   
-  <main>
-    <section id="about">
-      <h2>About Me</h2>
-      <p>[Insert an overview of yourself, your professional goals, and what you are seeking in a professional role]</p>
-    </section>
+
     
     <section id="contact">
       <h2>Contact Information</h2>
