@@ -126,27 +126,29 @@ Coordinated with co-workers and assured cleanliness of high-activity areas durin
 
   <main>
     <section id="course1">
-      <h2>Course Title</h2>
-      <p><strong>Institution:</strong> [University/Institution Name]</p>
-      <p><strong>Key Learnings:</strong> [Describe the key concepts, techniques, languages, and skills acquired]</p>
+      <h2>University of Denver, Daniels College of Business</h2>
+      <p><strong>Key Takeaways:</strong> Through the profesinal devlopment classes required for Daniels College of Business students, I learned key public speaking skills, allowing me to present myself profesionally whhile under stressfull situations. I also acquired and honed my microsoft office suite skills through some of the other basic INFO courses I took during my time here. I credit my ability to link my Marketing and Business Information Analytics skills and knowledge to the small class sizes that allowed each student to take on problems from their own perspective as they would approach them in the profesional world</p>
     </section>
     
-    <section id="course2">
-      <h2>Another Course Title</h2>
-      <p><strong>Institution:</strong> [University/Institution Name]</p>
-      <p><strong>Key Learnings:</strong> [Describe the key concepts, techniques, languages, and skills acquired]</p>
+<header>
+    <h1>Additional Information</h1>
+   
+  <main>
+    <section id="extra-content">
+      <h2>Zeta Beta Tau, Member and Risk Prevention and Welness Director</h2>
+      <p>As a member of the Zeta Beta Tau fraternity, its Iota chapter in particular, I served as the Risk Prevention and Welness Director from March of 2022 to February of 2024. Up until the end of my time at the Unviersity of Denver I will be serving a an advisor to the current Director in order to help and guide the newcomers as I did not have a mentor when I started. I take this leadership position extremely serious as failure to tend to my duties can directly result in consequences for the chapter as a whole and more importanlty, serious harm for our members. </p>
     </section>
-<!--
-**bradenmeese/bradenmeese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+  <h2>Rowayton Civic Assosciation, Community Volunteer</h2>
+      <p>I grew up in a small, tight knit community where I had amazing opportunities to socialize and experience events thanks to the hard work of volunteers in the community. In order to pay it forward I have been an active member in my community, volunteering in setting up for beach and park concerts, small fairs and other fund raising events. </p>
+    </section>
+  </main>
 
-Here are some ideas to get you started:
+<h1> My Full Resume </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [Braden Meese Resume 12_13_24 (1).pdf](https://github.com/user-attachments/files/19080521/Braden.Meese.Resume.12_13_24.1.pdf)
+
+  <footer>
+    <p>&copy; 2025 Braden Meese. All rights reserved.</p>
+  </footer>
+
