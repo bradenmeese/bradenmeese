@@ -1,11 +1,10 @@
-## Welcome to my GitHub Portfolio!
+## Welcome to my GitHub Portfolio, stay a while
 
 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Portfolio - Home</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -31,21 +30,17 @@
   
 
     
-    <section id="contact">
-      <h2>Contact Information</h2>
-      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></p>
-      <!-- Add additional contact info as needed -->
-    </section>
-    
-    <section id="highlights">
-      <h2>Key Highlights</h2>
-      <ul>
-        <li>[Highlight 1]</li>
-        <li>[Highlight 2]</li>
-        <li>[Highlight 3]</li>
-      </ul>
-    </section>
+  <html>
+<head>
+  <meta charset="UTF-8">
+  
+</head>
+<body>
+  <h1>Contact Information</h1>
+  <p>Email: <a href="mailto:braden@meese.org">braden@meese.org</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/braden-meese" target="_blank">www.linkedin.com/in/braden-meese</a></p>
+</body>
+</html>
   </main>
   
   <footer>
