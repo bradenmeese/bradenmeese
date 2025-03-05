@@ -101,9 +101,7 @@ I am semi-proficient in the French language and French culture, enabling effecti
       Leveraged software tools including Nitrogen, eMoney, and Orion to enhance office operations.
       Performed detailed analysis of client accounts and investment portfolios.
       Created detailed Social Security maximization documents for clients.
-      Worked with a team of 10+ financial service professionals in-person and online to further serve client needs.</p>
-     
-    
+      Worked with a team of 10+ financial service professionals in-person and online to further serve client needs. </p>
         <section id="job2">
   <h2>Intern at Retirement-In-Focus Wealth Managament</h2>
   <p><strong>Dates:</strong> June 2023 – August 2023</p>
@@ -112,14 +110,14 @@ I am semi-proficient in the French language and French culture, enabling effecti
 Organized and regularly navigated a database of over 1000 physical and virtual documents while maintaining
 inventory to increase document creation efficiency.
 Conducted follow-up calls and emails with prospects and clients.
-Set up meeting rooms and seminar rooms, as well as greeted and scheduled meetings with clients.</p>
+Set up meeting rooms and seminar rooms, as well as greeted and scheduled meetings with clients. </p>
 
   <h2>Life Guard at Bayley Beach</h2>
   <p><strong>Dates:</strong> June 2022 – August 2022</p>
   <p><strong>Guaranteed safety of over 150 beachgoers daily ranging from infants to elderly. 
 Interacted with beach patrons regularly while receiving feedback and worked with co-workers to ensure patron
 satisfaction.
-Coordinated with co-workers and assured cleanliness of high-activity areas during COVID-19 pandemic.</p>
+Coordinated with co-workers and assured cleanliness of high-activity areas during COVID-19 pandemic. </p>
  
     
  <h1>Education</h1>
@@ -141,7 +139,6 @@ Coordinated with co-workers and assured cleanliness of high-activity areas durin
     
   <h2>Rowayton Civic Assosciation, Community Volunteer</h2>
       <p>I grew up in a small, tight knit community where I had amazing opportunities to socialize and experience events thanks to the hard work of volunteers in the community. In order to pay it forward I have been an active member in my community, volunteering in setting up for beach and park concerts, small fairs and other fund raising events. </p>
-    </section>
   </main>
 
 <h1> My Full Resume </h1>
