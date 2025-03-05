@@ -15,11 +15,8 @@
      <main>
     <section id="about">
       <p>My name is Braden Meese, I was born and raised in Norwalk, Connecticut and moved to Denver to study Marketing and Business Information Analytics at the University of Denver. I have a passion for financial services after working with a boutiqe Wealth Management and Financial Advisory Firm in Darien, Connecticut. I am looking for opportunities in the realm or related.</p>
- 
-  </header>
-  
 
-    
+  
   <html>
 <head>
   <meta charset="UTF-8">
@@ -31,7 +28,6 @@
   <p>LinkedIn: <a href="https://www.linkedin.com/in/braden-meese" target="_blank">www.linkedin.com/in/braden-meese</a></p>
 </body>
 </html>
-  </main>
   
  <html lang="en">
 <head>
@@ -75,7 +71,6 @@ I am semi-proficient in the French language and French culture, enabling effecti
     <h1>Projects/Accomplishments</h1>
     <nav>
       <ul> 
-  </header>
    <main>
     <section id="project1">
       <h2>Investing Client Accounts</h2>
@@ -101,7 +96,7 @@ I am semi-proficient in the French language and French culture, enabling effecti
       Leveraged software tools including Nitrogen, eMoney, and Orion to enhance office operations.
       Performed detailed analysis of client accounts and investment portfolios.
       Created detailed Social Security maximization documents for clients.
-      Worked with a team of 10+ financial service professionals in-person and online to further serve client needs. </p>
+      Worked with a team of 10+ financial service professionals in-person and online to further serve client needs. 
         <section id="job2">
   <h2>Intern at Retirement-In-Focus Wealth Managament</h2>
   <p><strong>Dates:</strong> June 2023 – August 2023</p>
@@ -110,14 +105,14 @@ I am semi-proficient in the French language and French culture, enabling effecti
 Organized and regularly navigated a database of over 1000 physical and virtual documents while maintaining
 inventory to increase document creation efficiency.
 Conducted follow-up calls and emails with prospects and clients.
-Set up meeting rooms and seminar rooms, as well as greeted and scheduled meetings with clients. </p>
+Set up meeting rooms and seminar rooms, as well as greeted and scheduled meetings with clients. 
 
   <h2>Life Guard at Bayley Beach</h2>
   <p><strong>Dates:</strong> June 2022 – August 2022</p>
   <p><strong>Guaranteed safety of over 150 beachgoers daily ranging from infants to elderly. 
 Interacted with beach patrons regularly while receiving feedback and worked with co-workers to ensure patron
 satisfaction.
-Coordinated with co-workers and assured cleanliness of high-activity areas during COVID-19 pandemic. </p>
+Coordinated with co-workers and assured cleanliness of high-activity areas during COVID-19 pandemic. 
  
     
  <h1>Education</h1>
